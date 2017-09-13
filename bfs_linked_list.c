@@ -1,3 +1,5 @@
+//Implementation of BFS using QUEUE data structure(linked list implementation).
+
 #include <stdio.h>
 #include <stdlib.h>
 #define SIZE 40
